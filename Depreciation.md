@@ -1,0 +1,3 @@
+**Simply Stated**: Per [Investopedia](http://www.investopedia.com/terms/d/depreciation.asp), a "A method of allocating the cost of a tangible asset over its useful life." We give objects value, and accounting has built in a mechanism to show how that value changes as objects are used. Value usually decreases as it gets used more and more often. 
+
+**Simply Applied**: This concept allows businesses to reflect a more appropriate reflection of something's value than its original cost would suggest. It's an essential measure for accounting and tax, but useful metaphor for other topics as well. Ideas get discredited with the passage of time and new information. Business models are disrupted. Cultural mores fluctuate more often than we think. 
