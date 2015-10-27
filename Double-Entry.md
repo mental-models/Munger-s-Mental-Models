@@ -1,0 +1,3 @@
+**Simply Stated**: This term describes the underlying concept of bookkeeping: every transaction has equal and opposite effects in at least two accounts. Transactions are recorded as either debits or credits. A credit to one account results in a debit from another account, and vice versa. The sum of all credits and debits must be equal.
+
+**Simply Applied**: This concept is a big one, as it allows us to clearly track where the money is coming and going. It's the first thing you were probably taught when it came to personal financial management. It's also what lives under the hood of the *Assets = Liabilities + Equity* equation.
