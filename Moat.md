@@ -1,0 +1,3 @@
+**Simply stated**: Economic "moats" are advantages that a firm has over other companies within its industry. Bigger moats help create longer, more sustainable advantages. Firms can increase the size of their moat with advantages such as lower costs, higher switching costs, efficient scaling, more/better intangible assets (*e.g.*, IP, brand) and network effects ([Investopedia] (http://www.investopedia.com/terms/e/economicmoat.asp)).
+
+**Simply applied**: Moats help visualize the advantage one needs to succeed in a competitive environment, while also acting as shorthand for the competitive edge one either seeks or hopes to hold onto, in or out of a business environment. What advantages do you need to build a moat in your field?
