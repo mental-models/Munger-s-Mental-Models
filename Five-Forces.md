@@ -6,6 +6,6 @@
 4. Power of customers
 5. Threat of substitute products
 
-This model is often used by firms to analyze sources of profitability within an industry to develop their own corporate strategy. ([Investopedia] (http://www.investopedia.com/terms/p/porter.asp?ad=dirN&qo=serpSearchTopBox&qsrc=1&o=40186)).
+This model is often used by firms to analyze sources of profitability within an industry to develop their own corporate strategy ([Investopedia] (http://www.investopedia.com/terms/p/porter.asp?ad=dirN&qo=serpSearchTopBox&qsrc=1&o=40186)).
 
 **Simply applied**: The Five Forces model is a popular strategic tool because it gives a high-level view of things that can impact a firm. This model could be used by any organization that wants to both get a sense of their competitive landscape and find new opportunities.
