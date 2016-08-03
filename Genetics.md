@@ -1,3 +1,3 @@
-**Simply stated**: _
+**Simply stated**: The study of genes, genetic variation and heredity in living organisms ([Wikipedia] (https://en.wikipedia.org/wiki/Genetics)). Genes are pieces of DNA that, alone or with other genes, encode specific instructions for how a cell functions. Genes themselves are made of a core set of molecules (ATCG) that, in sequence, form the "book" that tells the cell how to behave. 
 
-**Simply defined**: _
+**Simply applied**: Genetic techniques seek to understand the underlying biologic code of life. Other fields may also have their own set of basic units that can be combined any number of ways to create emergent traits that can persist within and across domains/groups/institutions. Do you know the building blocks that make up your discipline?
