@@ -3,6 +3,8 @@ A list of mental models, as compiled by Tren Griffin [here](http://25iq.com/2015
 
 Models will listed below as they are added.
 
+
+#Models
 ###Accounting
 * Balance Sheet
 * Cash Flow Statement
