@@ -1,12 +1,3 @@
-# Munger-s-Mental-Models
-A list of mental models used by Charlie Munger, as shared by Tren Griffin [here] (http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom/).
-
-Here, the term mental models is interpreted as "[a representation of external reality inside your head](https://www.farnamstreetblog.com/mental-models/)." These representations often take the form of foundational concepts within discrete fields that help to explain the world around us.
-
-I will briefly describe each model in a markdown file with a Wikipedia introduction level of specificity. I will then note any additional relevant thoughts around each model, as well as a musing or two on how it could be applicable beyond business and investing to knowledge work more broadly.
-
-The list of models to be described is below: 
-
 Accounting:
 * Balance Sheet
 * Cash Flow Statement
