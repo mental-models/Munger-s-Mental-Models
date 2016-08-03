@@ -1,4 +1,5 @@
-List of mental models, as compiled by Tren Griffin [here](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom/). I  briefly describe each model in a markdown file with a Wikipedia introduction level of specificity. I then note any additional relevant thoughts around each model, as well as a musing or two on how it could be applicable beyond business and investing to knowledge work more broadly.
+#About
+A list of mental models, as compiled by Tren Griffin [here](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom/). I  briefly describe each model in a markdown file with a Wikipedia introduction level of specificity. I then note any additional relevant thoughts around each model, as well as a musing or two on how it could be applicable beyond business and investing to knowledge work more broadly.
 
 Models will listed below as they are added.
 
