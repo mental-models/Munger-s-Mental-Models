@@ -9,4 +9,4 @@
 
 From a [chemical perspective] (https://en.wikipedia.org/wiki/Chemical_thermodynamics#Overview), it describes the study of how heat and work interrelate in chemical reactions, particularly for predicting energy exchanges during different chemical processeses—including phase changes and solutions formation—within a system.
 
-**Simply applied**: Thermodynamics has a huge impact on systems theory, as it helps to describe how things inside and outside of the system interact. 
+**Simply applied**: Thermodynamics has a huge impact on systems theory, as it helps to describe how things inside and outside of the system interact. Could the interactions of people, technology and processes show evidence of the same laws in the context of a company? What if we equivocate energy with value?
