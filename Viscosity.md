@@ -1,1 +1,5 @@
+**Simply stated**: a measure of how resistant fluids are to stress from surrounding particles in its environment, like moving through the atmosphere or through a solid tube. The lower the viscosity, the freer the fluid flows within its environment ([Wikipedia] (https://en.wikipedia.org/wiki/Viscosity)). Although it is often used in reference to fluids, viscosity is a property can be observed in solids and gases as well. Importantly, when it comes to gases in a system, the kinetic theory of gases states that, where it is applicable, 
+* viscosity is independent of pressure, and
+* viscosity increases as temperature increases.
 
+**Simply applied**: Viscosity is a great as a framing device for thinking about any concept or thing that is easily comparable to fluids. Information flows, for instance, are fluid in nature. The type and quality of the information affect its abililty to move within a system. The lower the viscosity of that information, the easier it flows. Barriers to entry (education, a limited number of nodes, etc.) can serve to make the information more viscous.
