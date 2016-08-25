@@ -24,6 +24,10 @@ Models will listed below as they are added.
 * Five Forces
 * Brand
 
-###Thermodynamics
+###Chemistry
+* Autocatalytic Reactions
+* Bohr Model
+* Kinetics
+* Thermodynamics
 * Uncertainty Principle
 * Viscosity
